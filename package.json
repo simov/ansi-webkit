@@ -1,6 +1,6 @@
 {
     "name": "ansi-webkit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Print ANSI escaped colors in a browser console",
     "keywords": [
         "ansi", "colors", "console", "log", "browser", "webkit"

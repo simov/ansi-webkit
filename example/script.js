@@ -3,7 +3,7 @@
 require('nw.gui').Window.get().showDevTools().resizeTo(800, 1000);
 
 
-var aw = require('../../lib');
+var aw = require('../lib');
 
 var spawn = require('child_process').spawn,
     child = spawn('node', ['spawn.js']);

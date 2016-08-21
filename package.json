@@ -1,25 +1,25 @@
 {
-    "name": "ansi-webkit",
-    "version": "1.0.1",
-    "description": "Print ANSI escaped colors in a browser console",
-    "keywords": [
-        "ansi", "colors", "console", "log", "browser", "webkit"
-    ],
-    "license"   : "MIT",
-    "homepage"  : "https://github.com/simov/ansi-webkit",
-    "author": {
-        "name"  : "simo",
-        "email" : "simeonvelichkov@gmail.com"
-    },
-    "repository": {
-        "type"  : "git",
-        "url"   : "git://github.com/simov/ansi-webkit.git"
-    },
-    "devDependencies": {
-        "mocha" : "*",
-        "should": "*",
-        "colors": "*",
-        "cli-color": "*"
-    },
-    "main": "./lib"
+  "name": "ansi-webkit",
+  "version": "1.0.1",
+  "description": "Print ANSI escaped colors in a browser console",
+  "keywords": [
+    "ansi", "colors", "console", "log", "browser", "webkit"
+  ],
+  "license"   : "MIT",
+  "homepage"  : "https://github.com/simov/ansi-webkit",
+  "author": {
+    "name"  : "simo",
+    "email" : "simeonvelichkov@gmail.com"
+  },
+  "repository": {
+    "type"  : "git",
+    "url"   : "git://github.com/simov/ansi-webkit.git"
+  },
+  "devDependencies": {
+    "mocha" : "*",
+    "should": "*",
+    "colors": "*",
+    "cli-color": "*"
+  },
+  "main": "./lib"
 }
